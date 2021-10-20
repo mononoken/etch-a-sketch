@@ -9,4 +9,4 @@ function createGrid(squareQuantity) {
   }
 }
 
-createGrid(256);}
+createGrid(256);
